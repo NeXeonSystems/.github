@@ -1,1 +1,1 @@
-## Hi there, we are NeXeonSystems. We are a non-profit company that posts open-source projects!
+Hello there, we are NeXeonSystems. We make open-source projects that you can also contribute in! Our projects comes with no cost. We are a non-profit company that makes open-source projects for fun. If you want to join us, leave a suggestion or even tell us a bug in our projects. Don't be shy to join our [Discord Server](https://discord.gg/gy4ghjzunk) and tell us what we did wrong! 😊
